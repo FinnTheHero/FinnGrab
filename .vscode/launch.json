@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/FinnGrab",
-      "program": "c:/Users/Admin/Desktop/FinnGrab/build/Debug/outDebug",
+      "cwd": "c:/Users/aleksandre.nozadze/OneDrive - Sky Hi LLC/Desktop/FinnGrab",
+      "program": "c:/Users/aleksandre.nozadze/OneDrive - Sky Hi LLC/Desktop/FinnGrab/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
