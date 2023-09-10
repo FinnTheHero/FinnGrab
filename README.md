@@ -77,4 +77,4 @@ For any inquiries or feedback regarding FinnGrab, you can reach out to me direct
 
 ## Disclaimer
 
-FinnGrab is provided as-is, with no warranties or guarantees of any kind. The author (your name) is not responsible for any issues or damages caused by the use of this tool. Use at your own risk.
+FinnGrab is provided as-is, with no warranties or guarantees of any kind. The author (FinnTheHero) is not responsible for any issues or damages caused by the use of this tool. Use at your own risk.
